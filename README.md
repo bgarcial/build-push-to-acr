@@ -1,1 +1,2 @@
-# build-push-to-acr
+# Building and pushing a Docker Image to ACR
+
